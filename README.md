@@ -14,13 +14,14 @@ Desenvolvi esse projeto na Imersão Back-end Alura e aprendi bastante sobre dese
 
 1. Certifique-se de ter o Node.js instalado em sua maquina. 
 
-2. Instale as dependencias utilizadas do projeto com:
+2. Tenha uma conta no MongoDB ATLAS e crie um Banco novo para adicionar suas fotos na aplicação:
+
+3. Faça o git clone do meu repositorio em sua máquina.
+
+5. Instale as dependencias utilizadas no projeto com:
 ```bash
 npm install
 ```
-3. Tenha uma conta no MongoDB ATLAS e crie um Banco novo para adicionar suas fotos na aplicação:
-
-4. Faça o git clone do meu repositorio em sua máquina.
 
 ## Executando o Programa:
 
